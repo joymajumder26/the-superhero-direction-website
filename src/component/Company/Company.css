@@ -1,0 +1,17 @@
+.company{
+    display: grid;
+    grid-template-columns:4fr 1fr ;
+    
+}
+.employee-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    border: 1px solid wheat;
+    grid-gap: 20px;
+    text-align: center;
+    margin-left: 10px;
+}
+.cart-container{
+    margin-left: 20px;
+}
+
