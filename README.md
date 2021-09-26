@@ -1,6 +1,6 @@
 # Bdtask A Leading Software Company
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://react-assignment-8-bdtask-joymajumder26.netlify.app/).
 
 ##Project Benefits:
 >We can easily see company employee.
